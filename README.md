@@ -52,7 +52,7 @@ Menunjukkan seberapa besar pengaruh tiap-tiap fitur dari dataset nasabah terhada
 
 ### 7. Kesimpulan dan Rekomendasi
 Menjelaskan kesimpulan dan rekomendasi dari Tim _Data Analysis_ terhadap _stakeholder_ Bank XYZ
-      <b>a) Kesimpulan</b><br>
-        Memaparkan kesimpulan yang bisa didapat dari hasil pemodelan _machine learning_ untuk mengatasi permasalahan bisnis terkait _marketing campaign_ Bank XYZ<br>
-      <b>b) Recommendation</b><br>
-        Menjabarkan beberapa saran yang patut dipertimbangkan untuk pengembangan _project_ dan model _machine learning_ yang lebih lanjut<br>
+#### Kesimpulan
+Memaparkan kesimpulan yang bisa didapat dari hasil pemodelan _machine learning_ untuk mengatasi permasalahan bisnis terkait _marketing campaign_ Bank XYZ<br>
+#### Recommendation
+Menjabarkan beberapa saran yang patut dipertimbangkan untuk pengembangan _project_ dan model _machine learning_ yang lebih lanjut<br>
