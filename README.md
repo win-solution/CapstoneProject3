@@ -1,4 +1,4 @@
-# Capstone Project Module 2 - Bank Marketing Campaign
+# Capstone Project Module 3 - Bank Marketing Campaign
 ## Daftar Isi:
 ### 1. Pemahaman Masalah Bisnis (Understanding of Business Problems)
 Menjelaskan permasalahan bisnis yang akan ditangani dengan pembuatan model _machine learning_
